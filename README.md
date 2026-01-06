@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Herbert Gutierrez
 
-<!--
-**hgutti-dev/hgutti-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Software Engineer** with a **strong backend focus**, based in **El Salvador 🇸🇻**.
 
-Here are some ideas to get you started:
+I specialize in building **scalable, maintainable applications** and **automated systems**, combining solid software engineering practices with data-driven thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+- **Backend:** TypeScript / JavaScript, Python, C#
+- **Frontend:** Modern JavaScript ecosystems (React, Angular)
+- **Data & Pipelines:** SQL, ETL processes, data mapping
+- **DevOps & Automation:** CI/CD pipelines, Docker, Python automation scripts
+
+### 🚀 What I enjoy
+Designing clean architectures, automating repetitive processes, and delivering reliable systems that improve efficiency and support real business needs.
+
+Always learning, always building.
